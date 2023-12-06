@@ -1,7 +1,12 @@
 # CODSOFT
 Java Progaramming 
+
+
 100%Java
 Projects Developed in IntellliJ Idea
+
+
+
                               TASK 1
 1. Generate a random number within a specified range, such as 1 to 100.
 2. Prompt the user to enter their guess for the generated number.
