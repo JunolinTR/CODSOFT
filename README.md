@@ -16,7 +16,7 @@ is correct, too high, or too low.
 5. Limit the number of attempts the user has to guess the number
 
    
-                              TASK 2
+                             TASK 2
    
 1.Input: Take marks obtained (out of 100) in each subject.
 
